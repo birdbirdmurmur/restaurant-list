@@ -39,13 +39,19 @@ cd restaurant-List
 npm install
 ```
 
-### 4. 啟動專案
+### 4. 新增資料
 
 ```
-npm run start
+npm run seed
 ```
 
-### 5. 出現以下訊息後，在 localhost:3000 開始使用
+### 5. 啟動專案
+
+```
+npm run dev
+```
+
+### 6. 出現以下訊息後，在 localhost:3000 開始使用
 
 ```
 This server is running on localhost:3000.
